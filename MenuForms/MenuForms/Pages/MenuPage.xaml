@@ -6,7 +6,7 @@
              xmlns:controls="clr-namespace:MenuForms.Controls;assembly=MenuForms"
              xmlns:helpers="clr-namespace:MenuForms.Helpers;assembly=MenuForms"
              xmlns:windows="clr-namespace:Windows.UI.Xaml.Controls;assembly=Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentType=WindowsRuntime;targetPlatform=Windows"
-             x:Class="MenuForms.Pages.MenuPage">
-  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+             x:Class="MenuForms.Pages.MenuPage" BackgroundColor="{StaticResource PeterRiverBlueColor}" >
+    <Label Text="{Binding MainText}" TextColor="{StaticResource WhiteColor}" VerticalOptions="Center" HorizontalOptions="Center" />
 </ContentPage>
 

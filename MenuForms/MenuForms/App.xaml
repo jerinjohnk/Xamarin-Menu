@@ -22,8 +22,11 @@
       <Color x:Key="ProfileGrayColor">#afb3be</Color>
       <Color x:Key="BlackColor">#000000</Color>
       <Color x:Key="GreenColor">#0aca91</Color>
+      <Color x:Key="AlizarinRedColor">#e74c3c</Color>
+      <Color x:Key="PeterRiverBlueColor">#3498db</Color>
+      <Color x:Key="TurquoiseGreenColor">#1abc9c</Color> 
 
-      <!-- Fonts -->
+            <!-- Fonts -->
     
 
     </ResourceDictionary>
