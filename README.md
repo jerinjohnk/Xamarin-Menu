@@ -40,12 +40,12 @@ If you see build issues when pulling updates from the repo, try cleaning and reb
   Once you are familiar with code you can remove `public bool IsAuthenticated => true;` and uncomment `public bool IsAuthenticated => !string.IsNullOrEmpty(Settings.AccessToken);`.<br/>
 Now you just need to update **Settings.AccessToken** to true if you want logged in state to persist through out usage of app.
 
-Will be adding a Wiki documentation once I get time.<br/>
-Till then EAT, DRINK, CODE.<br/>
-Enjoy!
-
 ## Inspiration
 This project has been greatly inspired by [Template10](https://github.com/Windows-XAML/Template10)
+
+Will be adding a Wiki documentation once I get time.<br/>
+Till then **EAT, DRINK, CODE**.<br/>
+Enjoy!
 
    
 
