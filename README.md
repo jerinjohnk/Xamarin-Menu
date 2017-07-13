@@ -41,7 +41,7 @@ If you see build issues when pulling updates from the repo, try cleaning and reb
 Now you just need to update **Settings.AccessToken** to true if you want logged in state to persist through out usage of app.
 
 ## Inspiration
-This project has been greatly inspired by [Template10](https://github.com/Windows-XAML/Template10)
+This project has been greatly inspired by [Template10](https://github.com/Windows-XAML/Template10) & [BikeSharing](https://github.com/Microsoft/BikeSharing360_MobileApps)
 
 Will be adding a Wiki documentation once I get time.<br/>
 Till then **EAT, DRINK, CODE**.<br/>
